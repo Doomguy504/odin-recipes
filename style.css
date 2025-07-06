@@ -1,0 +1,15 @@
+html {
+    font-family: "Georgia", serif;
+}
+
+body {
+    background-color: rgb(195, 230, 250);
+    text-align: center;
+    width: fit-content;
+    margin: 5% auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
