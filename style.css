@@ -9,6 +9,11 @@ body {
     margin: 5% auto;
 }
 
+h1 {
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    font-size: 70px;
+}
+
 ul {
     list-style: none;
     padding: 0;
